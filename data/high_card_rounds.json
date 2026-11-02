@@ -1,0 +1,46 @@
+[
+    {
+        "round": 1,
+        "cards": [
+            {
+                "player": 1,
+                "card": "8",
+                "suit": "DIAMONDS",
+                "rank": 8
+            },
+            {
+                "player": 2,
+                "card": "QUEEN",
+                "suit": "DIAMONDS",
+                "rank": 12
+            }
+        ],
+        "draw_response": {
+            "success": true,
+            "deck_id": "gy2r8jav96oy",
+            "cards": [
+                {
+                    "code": "8D",
+                    "image": "https://deckofcardsapi.com/static/img/8D.png",
+                    "images": {
+                        "svg": "https://deckofcardsapi.com/static/img/8D.svg",
+                        "png": "https://deckofcardsapi.com/static/img/8D.png"
+                    },
+                    "value": "8",
+                    "suit": "DIAMONDS"
+                },
+                {
+                    "code": "QD",
+                    "image": "https://deckofcardsapi.com/static/img/QD.png",
+                    "images": {
+                        "svg": "https://deckofcardsapi.com/static/img/QD.svg",
+                        "png": "https://deckofcardsapi.com/static/img/QD.png"
+                    },
+                    "value": "QUEEN",
+                    "suit": "DIAMONDS"
+                }
+            ],
+            "remaining": 50
+        }
+    }
+]

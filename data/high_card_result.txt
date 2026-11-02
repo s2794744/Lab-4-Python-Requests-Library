@@ -1,0 +1,4 @@
+High Card Game Results
+Number of players: 2
+Total rounds played: 1
+Winner: Player 2
